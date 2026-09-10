@@ -5,7 +5,7 @@ Companion repository for the manuscript:
 > Tiezzi, R.O., Cunto, G.A.B., Boniolo, V.R., Ferreira, I.E.P., Pereira, D.R.
 > *Climate change and the wind resource of Northeast Brazil: what hub-height
 > tower measurements and downscaled climate projections show.* Submitted to
-> Applied Energy, 2026. (citation and DOI to be added upon publication)
+> publication, 2026. (citation and DOI to be added upon publication)
 
 ## What is here
 
